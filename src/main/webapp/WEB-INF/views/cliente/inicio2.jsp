@@ -76,7 +76,7 @@
                                             <p>
 
                                                 <div class="dropdown">
-                                                        <a class="nav-link" href="index.html">
+                                                        <a class="nav-link" href="productos">
                                                     <img src="../resources/imagen/nuevos_productos.jpg" class="d-block w-100"
                                                         alt="" height="300">
                                                         </a>
@@ -94,7 +94,7 @@
                                             <p>
 
                                                 <div class="dropdown">
-                                                        <a class="nav-link" href="file:///C:/Users/Alexis/Documents/PapeleriaElCompas/html/recargas.jsp.html">
+                                                        <a class="nav-link" href="recargas">
                                                     <img src="../resources/imagen/cell_recargas.png" class="d-block w-100"
                                                         height="300" high="100"> 
                                                     </a>
@@ -111,7 +111,7 @@
                                             <p>
 
                                                 <div class="dropdown">
-                                                        <a class="nav-link" href="file:///C:/Users/Alexis/Documents/PapeleriaElCompas/html/recargas.jsp.html">
+                                                        <a class="nav-link" href="impresion">
                                                     <img src="../resources/imagen/imprime-aqui-banner.png"
                                                         class="d-block w-100" alt="" height="300">
                                                         </a> 
