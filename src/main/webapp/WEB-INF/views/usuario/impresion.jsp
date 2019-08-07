@@ -51,7 +51,7 @@
                                         </div>
                                         <div class="row">
                                             <p>
-                                                Número Telefonico:
+                                                Número Telefónico:
                                                 <input type="text" name="cajas">
                                             </p>
                                         </div>
@@ -63,11 +63,11 @@
                                     <!-- Columna 2-->
 
                                     <div class="col-md-6" style="margin-top: 15px">
-                                        <h3>Expecificaciones de Impresion</h3>
+                                        <h3>Especificaciones de Impresión</h3>
                                         <br>
                                         <div class="row">
                                             <p>
-                                                Numero de Copias: &nbsp;
+                                                Número de Copias: &nbsp;
                                                 <br>
                                                 <input type="text" name="cajas">
                                             </p>
@@ -164,7 +164,7 @@
                                         <div class="row">
                                             <br>
                                             <p>
-                                                Adjunta Tu Comentario: &nbsp;
+                                                Especifique la fecha y hora de entrega: &nbsp;
                                                 <input type="text" name="cajas">
                                             </p>
                                         </div>
@@ -178,7 +178,7 @@
 
                                         <div class="row">
                                             <p class="txt" style="margin: auto"> <b class="bb">Al pulsar el botón los
-                                                    datos se guardarán, por favor verifique que los datos sean
+                                                    datos se guardarán, por favor verifique que sean
                                                     correctos</b>
                                             </p>
                                         </div>
